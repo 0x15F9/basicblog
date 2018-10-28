@@ -1,0 +1,10 @@
+{
+    "id": "5bd3faed17639e05055d0a9a",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "BasicBlogCluster",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
